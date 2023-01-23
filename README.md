@@ -43,7 +43,7 @@
 I'm a software developer for Desktop/Mobile and backend.
 I was worked as a lecturer at the university, engaged in scientific research and teaching, developed educational courses on programming using Assembly language, С, С++, Java<br>
 
-Conducated lectures and practices:<br> 
+### Conducated lectures and practices:<br> 
 * Programming with C language;<br>
 * Programming with C++ language;<br>
 * Programming with Java language;<br>
