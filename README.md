@@ -19,21 +19,6 @@
   />
 </picture>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
 ## 💻 Languages
 
 <img src="res/icons/asm.png" title="Dynamic Optimization & Assembly" width="52" height="52"/>&nbsp;
