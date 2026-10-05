@@ -108,18 +108,41 @@ I was worked as a lecturer at the university, engaged in scientific research and
 * Integrating mobile Ads SDK like AdMob, Mintegral, IronSource and others
 
 ---
-
 ## 🚀 Projects
-<div align="center">
-⚡ KATUSHA Benchmark
-A high-performance benchmark utility for comprehensive CPU, RAM, and Disk I/O stress-testing.
-<a href="https://github.com/Numbless/Katusha"> <img src="https://img.shields.io/badge/View%20Project-Katusha-blue?style=flat-square&logo=github" alt="View Katusha"/> </a>
-<a href="https://github.com/Numbless/Katusha/releases/tag/v0.1"> <img src="https://img.shields.io/badge/Release-v0.1-blue?style=flat-square&logo=github" alt="Latest Release"/> </a>
-<br>
-<img src="https://img.shields.io/github/stars/Numbless/Katusha?style=flat-square&logo=github&label=Stars" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/Numbless/Katusha?style=flat-square&logo=github&label=Forks" alt="Forks"/>
-<img src="https://img.shields.io/github/downloads/Numbless/Katusha/total?style=flat-square&logo=github&label=Downloads&color=red" alt="Downloads"/>
-<img src="https://img.shields.io/github/downloads/Numbless/Katusha/v0.1/total?style=flat-square&logo=github&label=v0.1&color=red" alt="v0.1 Downloads"/>
-</div>
+
+### ⚡ KATUSHA Benchmark
+
+<img src="res/icons/katusha.jpg" width="140" height="140" alt="KATUSHA Icon"/>
+
+**KATUSHA** is a high-performance C++ utility designed for intensive stress testing and benchmarking of core computer hardware components: the Central Processing Unit (CPU), System Memory (RAM), and the Storage Subsystem (Disk I/O).
+
+[![View Project](https://img.shields.io/badge/View%20Project-Katusha-blue?style=flat-square&logo=github)](https://github.com/Numbless/Katusha)
+[![Release](https://img.shields.io/badge/Release-v0.1-blue?style=flat-square&logo=github)](https://github.com/Numbless/Katusha/releases/tag/v0.1)
+
+![Stars](https://img.shields.io/github/stars/Numbless/Katusha?style=flat-square&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/Numbless/Katusha?style=flat-square&logo=github&label=Forks)
+![Downloads](https://img.shields.io/github/downloads/Numbless/Katusha/total?style=flat-square&logo=github&label=Downloads&color=red)
+![v0.1](https://img.shields.io/github/downloads/Numbless/Katusha/v0.1/total?style=flat-square&logo=github&label=v0.1&color=red)
+
+---
+
+### ⚡ ChibiWebServer
+
+<img src="res/icons/chibi.jpg" width="140" height="140" alt="ChibiWebServer Icon"/>
+
+**ChibiWebServer** is an ultra-fast, production-grade lightweight web server and HTTP Reverse Proxy gateway engineered from scratch in pure C++17. Distributed as pre-compiled, fully self-contained static binary packages, it requires zero external dependencies or shared libraries on the host machine.
+
+[![View Project](https://img.shields.io/badge/View%20Project-ChibiWebServer-blue?style=flat-square&logo=github)](https://github.com/Numbless/ChibiWebServer)
+[![Release](https://img.shields.io/badge/Release-v0.1-blue?style=flat-square&logo=github)](https://github.com/Numbless/ChibiWebServer/releases/tag/v0.1)
+
+![Stars](https://img.shields.io/github/stars/Numbless/ChibiWebServer?style=flat-square&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/Numbless/ChibiWebServer?style=flat-square&logo=github&label=Forks)
+![Downloads](https://img.shields.io/github/downloads/Numbless/ChibiWebServer/total?style=flat-square&logo=github&label=Downloads&color=red)
+![v0.1](https://img.shields.io/github/downloads/Numbless/ChibiWebServer/v0.1/total?style=flat-square&logo=github&label=v0.1&color=red)
+
+---
+
+
+
 
 
